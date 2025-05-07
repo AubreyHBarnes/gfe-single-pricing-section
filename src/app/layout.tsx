@@ -8,7 +8,7 @@ const notoSans = Noto_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Great Front End Feature Section",
+  title: "Great Front End Single Pricing Section",
   description: "As completed by Aubrey H Barnes",
 };
 
